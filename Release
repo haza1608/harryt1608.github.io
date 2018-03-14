@@ -1,0 +1,8 @@
+Origin: harryt1608's Repo
+Label: harryt1608's Official Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Test Cydia Repo
