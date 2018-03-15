@@ -7,8 +7,8 @@ Description: First ever tweak
 Maintainer: (harryt1608) <email@provider.com>
 Author: (harryt1608) <email@provider.com>
 Section: Tweaks
-MD5sum:
-SHA1sum:
-SHA256sum:
+MD5sum:1f4ec4bb03deed022b6e36e3203af5b2
+SHA1sum:882a96d5c9ebe59cc9b052ff77e3214a94b67ba9
+SHA256sum:2139908200e7ec8c09cdd475f13d573a98fdad1f861eb06130b108cc51926eb6
 Filename: debs//com.harryt1608.testtweak_0.0.1-1+debug_iphoneos-arm
 
